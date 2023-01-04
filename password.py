@@ -34,3 +34,15 @@ def password(n):
       print(rd.choice(array[1]), end="")
     else:
       print(rd.choice(array[2]), end="")
+  return
+
+four_digits_password()
+int_password(10)
+password(18)
+
+# Output
+# 
+# 2962
+# 3715236356
+# ?M&5ta-C@!%79XCof9
+# 
